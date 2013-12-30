@@ -88,6 +88,7 @@ namespace WeatherDataDemo
             _appName = appresponse["records"][0]["primaryApplication"]["fileName"];
             //}       
             //jsString.appPackage.id = _appid;
+            //
             jsString.appPackage.id = "52bd508d0b58150c6008d4a9";
             jsString.userId = _userid;
             jsString.appName = _appName;
